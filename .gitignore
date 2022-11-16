@@ -1,3 +1,6 @@
 *.pyc
 __pycache__/
 .tox/
+src/Whoosh.egg-info/
+build/
+
